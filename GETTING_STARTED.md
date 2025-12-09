@@ -20,7 +20,7 @@ How to set up everything for the course:
 
    `conda activate drug_discovery`
 
-4. Install an editor:
+5. Install an editor:
 
    Visual Studio Code (VS Code) is recommended: https://code.visualstudio.com/
 
@@ -28,7 +28,7 @@ How to set up everything for the course:
 
    Otherwise, you can use JupyterLab (Web Interface): https://jupyter.org/install
 
-5. Open the Course Folder in VS Code (or JupyterLab)
+6. Open the Course Folder in VS Code (or JupyterLab)
 
    Open VS Code (or any alternative)
 
@@ -36,10 +36,10 @@ How to set up everything for the course:
 
    Select the folder you downloaded from GitHub
 
-   Open the notebook: 0_python_introduction.ipynb
+   Open the notebook from the folder 0_python_introduction: 0_python_introduction.ipynb
 
    At the top right: Select the kernel → drug_discovery
 
-6. Complete the 0_python_introduction.ipynb
+7. Complete the 0_python_introduction.ipynb
 
    This will introduce you to Python basics
