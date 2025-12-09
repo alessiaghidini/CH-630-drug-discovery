@@ -8,12 +8,12 @@ Instructor: Alessia Ghidini
 
 This course contains 5 modules:
 
-  1_molecular_modelling
+  1. molecular modelling
   
-  2_docking_methods
+  2. docking methods
   
-  3_molecular_dynamics
+  3. molecular dynamics
   
-  4_enhanced_sampling_methods
+  4. enhanced sampling methods
   
-  5_ligand_based_methods
+  5. ligand based methods
