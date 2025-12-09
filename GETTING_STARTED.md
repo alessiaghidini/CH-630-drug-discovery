@@ -3,7 +3,9 @@ How to set up everything for the course:
 1. Download the Course Material from GitHub
 
 2. Install Conda
+   
    You must install Miniconda or Anaconda (Miniconda is lighter)
+   
    https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html
 
 4. Install the Course Environment
