@@ -22,8 +22,7 @@ Open VS Code (or any alternative)
 Click File → Open Folder
 Select the folder you downloaded from GitHub
 Open the notebook: 0_python_introduction.ipynb
-
 At the top right:
 Select the kernel → drug_discovery
 
-7. Complete the 0_python_introduction.ipynb if needed
+6. Complete the 0_python_introduction.ipynb if needed
