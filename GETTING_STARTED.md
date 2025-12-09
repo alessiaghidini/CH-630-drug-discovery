@@ -16,7 +16,7 @@ How to set up everything for the course:
 
    `conda env create -f environment.yml`
 
-   Then activate the enviromnet:
+   Then activate the environment:
 
    `conda activate drug_discovery`
 
