@@ -17,3 +17,6 @@ This course contains 5 modules:
   4. enhanced sampling methods
   
   5. ligand based methods
+
+
+For installation steps, see GETTING_STARTED.md.
