@@ -10,13 +10,13 @@ How to set up everything for the course:
 
 3. Install the Course Environment
   
-   Inside the folder you downloaded from GitHub, there is a file called `environment.yml`.
+   Inside the folder you downloaded from GitHub, you will find the file `environment.yml`.
 
    Open a terminal and create the environment:
 
    `conda env create -f environment.yml`
 
-   Activate the enviromnet:
+   Then activate the enviromnet:
 
    `conda activate drug_discovery`
 
@@ -24,9 +24,11 @@ How to set up everything for the course:
 
    Visual Studio Code (VS Code) is recommended: https://code.visualstudio.com/
 
+   Install the extensions: Python, Jupyter
+
    Otherwise, you can use JupyterLab (Web Interface): https://jupyter.org/install
 
-5. Open the Course Folder in VS Code
+5. Open the Course Folder in VS Code (or JupyterLab)
 
    Open VS Code (or any alternative)
 
@@ -36,6 +38,8 @@ How to set up everything for the course:
 
    Open the notebook: 0_python_introduction.ipynb
 
-   At the top right: Select the kernel → drug_discover
+   At the top right: Select the kernel → drug_discovery
 
-6. Complete the 0_python_introduction.ipynb if needed
+6. Complete the 0_python_introduction.ipynb
+
+   This will introduce you to Python basics
