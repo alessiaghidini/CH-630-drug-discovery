@@ -4,9 +4,9 @@ How to set up everything for the course:
 
 2. Install Conda
 
-You must install Miniconda or Anaconda (Miniconda is lighter)
+  You must install Miniconda or Anaconda (Miniconda is lighter)
 
-https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html
+  https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html
 
 3. Install the Course Environment
 
