@@ -3,12 +3,10 @@ How to set up everything for the course:
 1. Download the Course Material from GitHub
 
 2. Install Conda
+   You must install Miniconda or Anaconda (Miniconda is lighter)
+   https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html
 
-  You must install Miniconda or Anaconda (Miniconda is lighter)
-
-  https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html
-
-3. Install the Course Environment
+4. Install the Course Environment
 
 Inside the folder you downloaded from GitHub, there is a file called `environment.yml`.
 
