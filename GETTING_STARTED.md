@@ -9,7 +9,10 @@ You will need to install **WSL2 (Windows Subsystem for Linux)**
 
 Follow Microsoft’s guide: https://learn.microsoft.com/windows/wsl/install  
 
-Then use WSL to follow the next steps. You will need to install Conda inside WSL!
+Then use WSL to follow the next steps. You will need to install Conda inside WSL! <br>
+
+
+
 
 
 1. Download the Course Material from GitHub
