@@ -4,7 +4,7 @@ How to set up everything for the course:
 
 A **Linux-like environment** is required.
 
-You will need to install **WSL2 (Windows Subsystem for Linux)**  
+You will need to install **WSL (Windows Subsystem for Linux)**  
 
 Follow Microsoft’s guide: https://learn.microsoft.com/windows/wsl/install  
 
