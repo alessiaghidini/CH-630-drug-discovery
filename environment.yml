@@ -30,6 +30,7 @@ dependencies:
   - scikit-learn=1.6.1
   - scipy=1.13.1
   - pip:
+      - mdtraj==1.10.3
       - rdkit==2024.9.6
       - vina==1.2.7
 prefix: /opt/anaconda3/envs/drug_discovery
