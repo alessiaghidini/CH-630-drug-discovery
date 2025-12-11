@@ -19,6 +19,7 @@ dependencies:
   - matplotlib
   - matplotlib-base
   - matplotlib-inline
+  - mdtraj==1.10.3
   - meeko=0.7.1
   - nglview=3.1.4
   - notebook=7.4.1
