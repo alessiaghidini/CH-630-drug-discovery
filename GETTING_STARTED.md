@@ -1,4 +1,4 @@
-How to set up everything for the course:
+How to set up everything for the course if you want to work locally, outside NOTO:
 
 **Note for Windows Users only**
 
